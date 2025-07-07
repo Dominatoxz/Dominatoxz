@@ -1,4 +1,4 @@
-<h1><img src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif" width="30"/> Hello, guys ! </h1>
+<h1><img src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif" width="50"/> Hello, guys ! </h1>
 ========================================================================================
 
 My name is Matheus Dominato. I'm a Junior Dev.  👻
