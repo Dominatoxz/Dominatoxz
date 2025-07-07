@@ -13,4 +13,4 @@ My name is Matheus Dominato. I'm a Junior Dev.  👻
 <a href="https://www.instagram.com/mthdominato_fx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:dominatomatheus06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center"><img src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
+<p align="center"><img src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif](https://media.tenor.com/tEZd0eRyA_cAAAAC/silver-the-hedgehog.gif"/></p>  
