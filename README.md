@@ -1,4 +1,4 @@
-<h1><img src="(https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif)" width="30"/> Hello, guys ! </h1>
+<h1><img src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif" width="30"/> Hello, guys ! </h1>
 ========================================================================================
 
 My name is Matheus Dominato. I'm a Junior Dev.  👻
@@ -13,4 +13,4 @@ My name is Matheus Dominato. I'm a Junior Dev.  👻
 <a href="https://www.instagram.com/mthdominato_fx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:dominatomatheus06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
+<p align="center"><img src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
