@@ -6,12 +6,6 @@ My name is Matheus Dominato. I'm a Junior Dev.  👻
 ### Languages & Tools 🛠  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=red)&nbsp;
 
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaispll&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
-
 
 ### Let's connect? 🤝 
  
