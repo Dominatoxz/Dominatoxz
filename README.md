@@ -1,4 +1,4 @@
-<h1><img src="[https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085](https://media.tenor.com/VEp3WM5DV3UAAAAi/sonic.gif)" width="30"/> Hello, guys ! </h1>
+<h1><img src="(https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif)" width="30"/> Hello, guys ! </h1>
 ========================================================================================
 
 My name is Matheus Dominato. I'm a Junior Dev.  👻
