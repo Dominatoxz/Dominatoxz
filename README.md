@@ -1,4 +1,4 @@
-<h1><img src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif" width="40" height="30"/> Hello, guys ! </h1>
+<h1><img src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif" width="30" height="30"/> Hello, guys! </h1>
 ========================================================================================
 
 My name is Matheus Dominato. I'm a Junior Dev.  👻
@@ -9,7 +9,7 @@ My name is Matheus Dominato. I'm a Junior Dev.  👻
 
 ### Let's connect? 🤝 
  
-<a href="[https://www.youtube.com/channel/UCyBFm9jfldpcirVP_YFU9Pw](https://www.youtube.com/@MatheusDominato_)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@MatheusDominato_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/mthdominato_fx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:dominatomatheus06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
