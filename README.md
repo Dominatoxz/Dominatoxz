@@ -4,7 +4,7 @@
 My name is Matheus Dominato. I'm a Junior Dev.  👻
 
 ### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=red)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=red)&nbsp;![MySQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&color=red)&nbsp;![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&color=red)&nbsp;
 
 
 ### Let's connect? 🤝 
