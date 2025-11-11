@@ -1,5 +1,5 @@
 <h1><img src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif" width="30" height="30"/> Hello, guys! </h1>
-==========================================================================
+=============================================================================
 
 My name is Matheus Dominato. I'm a Junior Dev.  👻
 
