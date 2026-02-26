@@ -1,10 +1,11 @@
 <h1><img src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif" width="30" height="30"/> Hello, guys! </h1>
-============================================================================
+===========================================================
 
 My name is Matheus Dominato. I'm a Junior Dev.  👻
 
 ### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=red)&nbsp;![MySQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&color=green)&nbsp;![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&color=purple)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=red)&nbsp;![MySQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&color=green)&nbsp;![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&color=purple)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=Yellow)&nbs;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=purple)&nbs;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=purple)&nbs;![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&color=Red)&nbs;
 
 
 ### Let's connect? 🤝 
