@@ -1,7 +1,10 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Dominato;Desenvolvedor+Back+End;Transformando+processos+em+c%C3%B3digo" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=header" width="100%"/> </p>
 🚀 Sobre mim
+<br>
 💻 Desenvolvedor Back End, atuando na área de Desenvolvimento dentro de TI
+<br>
 🎯 Gosto de transformar processos manuais em soluções automatizadas
+<br>
 🌱 Sempre estudando novas tecnologias e boas práticas de arquitetura
 <br>
 🛠️ Tecnologias
