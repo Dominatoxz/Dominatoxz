@@ -1,17 +1,9 @@
-<h1><img src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif" width="30" height="30"/> Hello, guys! </h1>
-
-
-My name is Matheus Dominato. I'm a Junior Dev.  👻
-
-### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=grey)&nbsp;![MySQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&color=green)&nbsp;![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&color=pink)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=yellow)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=purple)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=turquoise)&nbsp;![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&color=red)&nbsp;
-
-
-### Let's connect? 🤝 
- 
-<a href="https://www.youtube.com/@MatheusDominato_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.instagram.com/mthdominato_fx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:dominatomatheus06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<p align="center"><img src="https://i.gifer.com/origin/96/96d171e459939d301e2bcaf44d4cbeef_w200.gif" width="90"/></p>  
+<h1 align="center">Olá, eu sou o Matheus Dominato 👋</h1> <p align="center"> Desenvolvedor Jr. | Apaixonado por resolver problemas com código </p>
+🚀 Sobre mim
+💻 Atuo na área de Desenvolvimento dentro de TI
+🌱 Sempre aprendendo e evoluindo como desenvolvedor
+🎯 Gosto de transformar processos manuais em soluções automatizadas
+🛠️ Tecnologias
+<p> <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=white&color=306998"/> <img src="https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=white&color=777BB4"/> <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel&logoColor=white&color=FF2D20"/> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E"/> <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white&color=E34F26"/> <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=white&color=1572B6"/> <img src="https://img.shields.io/badge/-SCSS-05122A?style=flat-square&logo=sass&logoColor=white&color=CC6699"/> <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white&color=4479A1"/> </p>
+📫 Contato
+<p> <a href="mailto:dominatomatheus06@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/mthdominato_fx/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> <a href="https://www.youtube.com/@MatheusDominato_"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/> </a> </p>
